@@ -1,0 +1,10 @@
+# Site settings
+title: microsite-starter
+email: your-email@domain.com
+description: microsite-starter
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js]
