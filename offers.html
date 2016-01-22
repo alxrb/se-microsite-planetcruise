@@ -1,0 +1,47 @@
+---
+layout: default
+title: Offers
+class: offers
+weight: 8
+---
+
+<div class="page-head">
+  <h1 class="white-title">Offers</h1>
+</div>
+
+<div id="offers" class="main">
+
+
+  <div class="page-offers">
+    <ul class="clearfix">
+
+      <!-- shows all offers by price -->
+      {% assign offers = site.offers | sort: 'price' %}
+      {% for offer in offers%}
+        {% include offer-block.html %}
+      {% endfor %}
+
+    </ul>
+  </div>
+
+  <div class="se-offers-section">
+    <h1 class="white-title">Secret Escapes Offers</h1>
+  </div>
+
+  <div class="page-offers">
+    <ul class="clearfix">
+
+    <!-- shows all se-offers by price -->
+    {% assign seoffers = site.seoffers | sort: 'price' %}
+    {% for seoffer in seoffers %}
+      {% include seoffer-block.html %}
+    {% endfor %}
+
+    </ul>
+  </div>
+
+
+  {% include price-guarantee.html %}
+
+
+</div>

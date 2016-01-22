@@ -1,0 +1,18 @@
+<li id="{{ seoffer.class }}" class="se-offer">
+  <a href="{{ seoffer.cruise-url }}" >
+    <div class="se-offer-img">
+      <div class="offer-btn">View Offer</div>
+      <img src="images/offers/{{ seoffer.class }}.jpg" alt="{{ seoffer.title }}">
+    </div>
+    <div class="se-offer-copy">
+      <h3>{{ seoffer.title }}</h3>
+      <p class="se-offer-location">{{ seoffer.cruiseline }}</p>
+      {% if seoffer.special-info %}
+        <div class="offer-info">{{ seoffer.special-info }}</div>
+      {% endif %}
+    </div>
+    <div class="se-offer-price">
+      <p>From <span class="now-price">£{{ seoffer.price }}pp</span> for {{ seoffer.nights }} nights</p>
+    </div>
+  </a>
+</li>

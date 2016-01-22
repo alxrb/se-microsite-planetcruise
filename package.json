@@ -1,5 +1,5 @@
 {
-  "name": "microsite-starter",
+  "name": "planetcruise",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -12,6 +12,7 @@
     "browser-sync": "^2.7.12",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
     "gulp-shell": "^0.4.2",
     "gulp-uglify": "^1.5.1"
   }

@@ -1,13 +1,54 @@
-<header class="site-header">
+<div id="mobile-nav">
+  <div id="nav-mobile-se-logo" class="secret-escapes-bar-logo">
+    <a href="http://www.secretescapes.com/current-sales"><img src="https://s3-eu-west-1.amazonaws.com/se-media/Media/generic/SE_logo.png" alt="Secret Escapes Logo" /></a>
+  </div>
+  <div id="menu">
+    <ul>
+      {% include site-nav-list.html %}
+      <li><a href="http://www.secretescapes.com/current-sales">Current Sales</a></li>
+      <li><a href="http://www.planetcruise.co.uk/planet-cruise-brochure?referrersiteid=970">Request a Brouchure</a></li>
+    </ul>
+    <div id="nav-mobile-client-logo" class="mobile-partnership">
+      <p>In partnership with</p>
+      <a href="http://www.planetcruise.co.uk/?referrersiteid=970"><img src="../images/logo-planet-cruise.png" alt="Planet Cruise" /></a>
+    </div>
+    <a href="#" id="menu-close"><img src="https://s3-eu-west-1.amazonaws.com/secretescapes/visitscotland/images/sexy-close-btn.png" /></a>
+  </div>
+  <div class="mobile-menu-button">
+    <a href="#" id="menu-open"><img src="https://s3-eu-west-1.amazonaws.com/secretescapes/visitscotland/images/quad-burger.png" /></a>
+  </div>
+</div>
 
-  <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-    <nav class="site-nav">
-      {% for page in site.pages %}
-        {% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </nav>
+<div id="secret-escapes-bar">
+  <div id="nav-se-logo" class="secret-escapes-bar-logo">
+    <a href="http://www.secretescapes.com/current-sales"><img src="https://s3-eu-west-1.amazonaws.com/se-media/Media/generic/SE_logo.png" alt="Secret Escapes Logo" /></a>
+  </div>
+  <div class="secret-escapes-bar-nav">
+    <ul>
+      <li id="nav-curent-sales"><a href="http://www.secretescapes.com/current-sales">Current Sales</a></li>
+      <li id="nav-top-destinations"><a href="http://www.planetcruise.co.uk/planet-cruise-brochure?referrersiteid=970">Request a Brouchure</a></li>
+    </ul>
+  </div>
+  <div id="nav-client-logo" class="secret-escapes-bar-client">
+    <a href="http://www.planetcruise.co.uk/?referrersiteid=970"><img src="images/logo-planet-cruise.png" alt="Planet Cruise" /></a>
+  </div>
+</div>
 
-</header>
+
+<div class="container-bg {{ page.class }}-bg">
+
+  {% if page.class == "overview" %}
+    {% include home-video-bg.html %}
+  {% endif %}
+
+  <div class="nav">
+    <div class="selected-button selected-button-{{ page.class }}"></div>
+    <ul>
+      {% include site-nav-list.html %}
+    </ul>
+  </div>
+  <div id="skycraper-text" class="partnership">
+    <img src="images/logo-planet-cruise-award.png" alt="Agent Achievement Award" />
+  </div>
+</div>

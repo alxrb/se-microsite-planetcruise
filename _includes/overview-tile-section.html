@@ -1,0 +1,20 @@
+
+
+{% assign pages = site.pages | sort:'weight' %}
+{% for page in pages %}
+  {% if page.class == 'overview' or page.class == 'offers' %}
+    {% continue %}
+  {% else %}
+    <div class="overview-tile">
+      <a href="{{ page.url | remove_first:'/'}}">
+        <div class="overview-tile-text">
+          <h2>{{ page.title }}</h2>
+          <span class="explore-btn">Explore</span>
+        </div>
+        <div class="overview-tile-img">
+          <img src="images/overview-tile-{{ page.class }}.jpg" alt="{{ page.title }}">
+        </div>
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}

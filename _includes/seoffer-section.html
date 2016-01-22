@@ -1,0 +1,27 @@
+<!-- checks se-offers for this territory & adds section & offers -->
+{% assign areThereSeOffers = 'false' %}
+{% assign checker = site.seoffers %}
+{% for check in checker %}
+  {% if check.category == page.class %}
+    {% assign areThereSeOffers = 'true' %}
+  {% endif %}
+{% endfor %}
+
+{% if areThereSeOffers == 'true' %}
+  <div class="se-offers-section">
+    <h1 class="white-title">Secret Escapes Offers</h1>
+  </div>
+
+  <div class="page-offers">
+    <ul class="clearfix">
+
+    {% assign seoffers = site.seoffers %}
+    {% for seoffer in seoffers %}
+      {% if seoffer.category == page.class %}
+        {% include seoffer-block.html %}
+      {% endif %}
+    {% endfor %}
+
+    </ul>
+  </div>
+{% endif %}

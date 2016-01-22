@@ -1,22 +1,41 @@
 ---
 layout: default
-class: home
+title: Overview
+class: overview
+weight: 1
+permalink: index.html
 ---
 
-<section>
-  <h1>{{ site.title }}</h1>
-  <div class="row columns-7-5">
-    <p class="column">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam!</p>
-    <p class="column">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam!</p>
+<div class="page-head">
+  <h1>Sail Away</h1>
+</div>
+
+
+<div id="overview" class="main">
+
+  <div id="page-content" class="clearfix">
+
+    <div class="overview-intro">
+      <p>For a mix of relaxation and discovery, you can’t beat a cruise holiday. And with such an incredible wealth of choice out there, Planet Cruise are just the people to help you choose your next voyage. Whether you need insider advice on European sailings or cross-ocean adventures, they have a dedicated team with outstanding cruise knowledge. Add to that the pre-departure advice from the concierge team, door to door transfers, excellent variety for solo travellers and more, and it’s no wonder Planet Cruise picked up a raft of awards this year.</p>
+    </div>
+
+    {% include overview-tile-section.html %}
+
   </div>
-  <div class="row columns-4-4-4">
-    <p class="column">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam!</p>
-    <p class="column">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam!</p>
-    <p class="column">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam!</p>
+
+
+  <div class="page-offers">
+    <ul class="clearfix">
+
+      <!-- shows the 6 cheapest offers by price -->
+      {% assign offers = site.offers | sort: 'price' %}
+      {% for offer in offers limit: 6 %}
+        {% include offer-block.html %}
+      {% endfor %}
+
+    </ul>
   </div>
-  <div class="row columns-4-8">
-    <p class="column">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam!</p>
-    <p class="column">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae harum quasi magni veniam eos laborum velit, provident laboriosam, distinctio laudantium voluptas natus sapiente nobis, amet. Maiores, quo eum iste quisquam!</p>
-  </div>
-  <a href="#" class="btn">button</a>
-</section>
+
+  {% include price-guarantee.html %}
+
+</div>

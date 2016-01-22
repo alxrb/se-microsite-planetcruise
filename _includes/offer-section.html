@@ -1,0 +1,10 @@
+<div class="page-offers">
+  <ul class="clearfix">
+    {% assign offers = site.offers | sort: 'price' %}
+      {% for offer in offers %}
+      {% if offer.category == page.class %}
+        {% include offer-block.html %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

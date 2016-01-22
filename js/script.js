@@ -1,26 +1,28 @@
-(function ($, root, undefined) {$(function () {'use strict'; // on ready start
-///////////////////////////////////////////////////////////////////////////////
+// Mobile Menu Function
+$(function() {
+  var pull        = $('#menu-open'),
+  menu        = $('#mobile-nav #menu'),
+  button      = $('#mobile-nav #menu a'),
+  shut        = $('#menu-close'),
+  menuHeight  = menu.height();
 
-
-///////////////////////////////////////
-//        general
-///////////////////////////////////////
-
-  // css tricks snippet - http://css-tricks.com/snippets/jquery/smooth-scrolling/
-  $(function() {
-    $('a[href*=#]:not([href=#])').click(function() {
-      if (location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'') && location.hostname === this.hostname) {
-        var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-        if (target.length) {
-          $('html,body').animate({
-            scrollTop: target.offset().top
-          }, 500);
-          return false;
-        }
-      }
-    });
+  $(pull).on('click', function(e) {
+    e.preventDefault();
+    menu.slideToggle();
   });
 
-///////////////////////////////////////////////////////////////////////////////
-});})(jQuery, this); // on ready end
+  $(shut).on('click', function(e) {
+    e.preventDefault();
+    menu.slideUp();
+  });
+});
+
+// fades title on scroll function
+$(window).scroll(function(){
+  $(".page-head").css("opacity", 1 - $(window).scrollTop() / 250);
+});
+
+// silder plugin init
+$(document).ready(function(){
+  $('.bxslider').bxSlider();
+});
