@@ -6,5 +6,5 @@ cruiseline: Oceania Cruises – Nautica
 special-info: 3 nights in Bangkok & 2 nights stay in Beijing hotel stay
 price: 4999
 nights: 27
-cruise-url: http://www.iglucruise.com/nautica/9th-february-2016_c99617-inside-cabin?referrersiteid=970
+cruise-url: http://www.planetcruise.co.uk/oceania-cruises/nautica/09-february-2016/99617?referrersiteid=970
 ---

@@ -6,5 +6,5 @@ cruiseline: Azamara Cruises – Azamara Journey
 special-info: Free unlimited WiFi, Shore excursion & More
 price: 1949
 nights: 7
-cruise-url: http://www.iglucruise.com/azamara-journey/3rd-july-2016_c82792-inside-cabin?referrersiteid=970
+cruise-url: http://www.planetcruise.co.uk/azamara-cruises/azamara-journey/03-July-2016/82792?referrersiteid=970
 ---
