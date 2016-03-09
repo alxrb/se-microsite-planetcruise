@@ -2,9 +2,9 @@
 category: river
 title: Paris to Normandy’s landing beaches
 class: paris-to-normandys-landing-beaches
-cruiseline: Avalon Waterways – Avalon Creativity
-special-info: Half price river cruise + 2 overnights onboard in Paris + balcony
-price: 1229
+cruiseline: Avalon Waterways, Avalon Creativity
+special-info: 2NT Overnight onboard in Paris, Free Wifi + VIP home pick up
+price: 1069
 nights: 7
-cruise-url: http://www.planetcruise.co.uk/avalon-waterways-cruises/avalon-creativity/28-june-2016/92968?referrersiteid=970
+cruise-url: http://www.planetcruise.co.uk/avalon-waterways-cruises/avalon-creativity/29-March-2016/92955?referrersiteid=970
 ---
