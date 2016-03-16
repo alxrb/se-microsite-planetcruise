@@ -458,13 +458,13 @@ video {
 }
 
 .selected-button-overview {top: 3px;}
-.selected-button-mediterranean {top: 30px;}
-.selected-button-caribbean {top: 57px;}
-.selected-button-far-east-and-asia {top: 83px;}
-.selected-button-river {top: 111px;}
-.selected-button-rest-of-the-world {top: 137px;}
-.selected-button-luxury {top: 164px;}
-.selected-button-offers {top: 192px;}
+.selected-button-mediterranean {top: 29px;}
+.selected-button-caribbean {top: 55px;}
+.selected-button-far-east-and-asia {top: 81px;}
+.selected-button-river {top: 107px;}
+.selected-button-rest-of-the-world {top: 133px;}
+.selected-button-luxury {top: 159px;}
+.selected-button-offers {top: 185px;}
 
 
 #social-icons {
@@ -1563,7 +1563,9 @@ video {
 	}
 }
 
-
+.banner{
+  margin-bottom: 44px;
+}
 
 
 
