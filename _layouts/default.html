@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body id="top" class="{% if page.class %}{{ page.class }}{% endif %}">
+<body id="top" class="{% if page.class %}{{ page.class }}{% endif %}" {% if page.class %}data-current-page="{{ page.class }}"{% endif %}>
 
   <!-- Google Tag Manager -->
   <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TH4FN5"

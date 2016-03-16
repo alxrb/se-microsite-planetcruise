@@ -17,6 +17,10 @@ $(function() {
   });
 });
 
+// current page nav highlight
+var currentPage = $('body').data('current-page');
+$('.' + currentPage + ' .nav-' + currentPage).addClass('current');
+
 // fades title on scroll function
 $(window).scroll(function(){
   $(".page-head").css("opacity", 1 - $(window).scrollTop() / 250);

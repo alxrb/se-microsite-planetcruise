@@ -447,24 +447,12 @@ video {
 	margin-bottom: 2px;
 }
 
-
-.selected-button {
-	width: 12px;
-	height: 12px;
-	position:absolute;
-	left:0;
-	background: url(../images/icon-anchor.png) no-repeat;
-	background-size: 12px;
+.nav .current {
+  background-image: url("../images/icon-anchor.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 12px;
 }
-
-.selected-button-overview {top: 3px;}
-.selected-button-mediterranean {top: 29px;}
-.selected-button-caribbean {top: 55px;}
-.selected-button-far-east-and-asia {top: 81px;}
-.selected-button-river {top: 107px;}
-.selected-button-rest-of-the-world {top: 133px;}
-.selected-button-luxury {top: 159px;}
-.selected-button-offers {top: 185px;}
 
 
 #social-icons {

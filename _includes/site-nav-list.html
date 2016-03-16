@@ -1,4 +1,4 @@
 {% assign sitepages = site.pages | sort: 'weight' %}
 {% for page in sitepages %}
-  <li><a href="{{ page.url | remove_first:'/'}}">{{ page.title }}</a></li>
+  <li class="nav-{{ page.class }}"><a href="{{ page.url | remove_first:'/'}}">{{ page.title }}</a></li>
 {% endfor %}
