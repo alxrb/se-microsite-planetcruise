@@ -11,19 +11,9 @@ weight: 8
 
 <div id="offers" class="main">
 
+  <a id="link-image-offers-banner" href="http://www.planetcruise.co.uk/cruise-deals?referrersiteid=970"><img class="banner" src="images/banner-generic.jpg" alt=""></a>
 
-  <div class="page-offers">
-    <a id="link-image-offers-banner" href="http://www.planetcruise.co.uk/cruise-deals?referrersiteid=970"><img class="banner" src="images/banner-generic.jpg" alt=""></a>
-    <ul class="clearfix">
-
-      <!-- shows all offers by price -->
-      {% assign offers = site.offers | sort: 'price' %}
-      {% for offer in offers%}
-        {% include offer-block.html %}
-      {% endfor %}
-
-    </ul>
-  </div>
+  {% include cruiseliners-section.html %}
 
   <div class="se-offers-section">
     <h1 class="white-title">Secret Escapes Offers</h1>

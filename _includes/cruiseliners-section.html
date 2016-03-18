@@ -1,0 +1,8 @@
+<div class="page-offers">
+  <ul class="clearfix">
+    {% assign cruiseliners = site.cruiseliners %}
+    {% for cruiseliner in cruiseliners %}
+      {% include cruiseliner-block.html %}
+    {% endfor %}
+  </ul>
+</div>

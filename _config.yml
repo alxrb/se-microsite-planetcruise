@@ -16,6 +16,8 @@ collections:
   offers:
     output: true,
   seoffers:
+    output: true,
+  cruiseliners:
     output: true
 # set default layout for collection
 defaults:
@@ -29,6 +31,12 @@ defaults:
     scope:
       path: ""
       type: "seoffers"
+    values:
+      layout: "blank"
+  -
+    scope:
+      path: ""
+      type: "cruiseliners"
     values:
       layout: "blank"
 

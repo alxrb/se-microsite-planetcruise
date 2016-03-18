@@ -1557,3 +1557,11 @@ video {
 
 
 
+/* --- registration marks --- */
+
+#celebrity-cruises h3:after,
+#royal-caribbean h3:after{
+  content: "®";
+  font-size: 0.33em;
+  vertical-align: super;
+}
