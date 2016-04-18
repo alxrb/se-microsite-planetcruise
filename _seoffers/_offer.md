@@ -4,6 +4,6 @@ title: #
 class: #
 cruiseline: #
 price: #
-nights: #
+price-description: #
 cruise-url: #
 ---
