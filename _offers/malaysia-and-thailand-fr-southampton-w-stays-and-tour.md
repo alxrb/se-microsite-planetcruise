@@ -1,6 +1,6 @@
 ---
 category: far-east-and-asia
-title: Malaysia & Thailand from Southampton with Stays & Tour
+title: Malaysia & Thailand from Singapore with Stays & Tour
 class: malaysia-and-thailand-fr-southampton-w-stays-and-tour
 cruiseline: Princess Cruises – Diamond Princess
 special-info: 2 nights stay in Singapore & Tour by night + flights & transfers
