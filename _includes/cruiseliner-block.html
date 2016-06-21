@@ -5,11 +5,7 @@
       <img src="images/cruiseliners/{{ cruiseliner.class }}.jpg" alt="{{ cruiseliner.title }}">
     </div>
     <div class="se-offer-copy">
-      <h3>{{ cruiseliner.title }}</h3>
-      <p class="se-offer-location">{{ cruiseliner.cruiseline }}</p>
-      {% if cruiseliner.special-info %}
-        <div class="offer-info">{{ cruiseliner.special-info }}</div>
-      {% endif %}
+      <p class="se-offer-location">{{ cruiseliner.info }}</p>
     </div>
     <div class="se-offer-price">
       <p>From <span class="now-price">£{{ cruiseliner.price }}pp</span></p>

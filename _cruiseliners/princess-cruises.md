@@ -1,7 +1,7 @@
 ---
 title: Princess Cruises
 class: princess-cruises
-cruiseline: #
-price: 609
-cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=32&referrersiteid=970
+price: 1299
+info: Top Princess Baltic Capitals & Scandinavian Deals
+cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=72&referrersiteid=970
 ---

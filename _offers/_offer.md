@@ -1,5 +1,5 @@
 ---
-category: luxury
+category: #
 title: #
 class: #
 cruiseline: #

@@ -1,5 +1,5 @@
 ---
-category: mediterranean
+category: #
 title: #
 class: #
 cruiseline: #
