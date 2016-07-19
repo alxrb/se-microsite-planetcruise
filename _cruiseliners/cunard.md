@@ -1,7 +1,7 @@
 ---
 title: Cunard
 class: cunard
-price: 799
-info: Hand picked Top Luxury Sailings
-cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13631&referrersiteid=970
+price: 389
+info: Handpicked top luxury sailings
+cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13631&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website
 ---

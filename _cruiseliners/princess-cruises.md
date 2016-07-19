@@ -1,7 +1,7 @@
 ---
 title: Princess Cruises
 class: princess-cruises
-price: 1299
-info: Top Princess Baltic Capitals & Scandinavian Deals
-cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=72&referrersiteid=970
+price: 1199
+info: Book by 12 July 2016
+cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=68&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website
 ---
