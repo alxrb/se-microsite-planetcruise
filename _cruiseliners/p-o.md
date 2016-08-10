@@ -1,7 +1,7 @@
 ---
-title: P&O
+title: P & O
 class: p-o
-price: 735
-info: Great Value Canaries Isles & Iberia Cruises
-cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=9949&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website
+price: 00000000
+info: P&O Cruises 2018 summer itineraries on sale soon
+cruise-url: http://www.planetcruise.co.uk/pocruises-prereg?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-po
 ---
