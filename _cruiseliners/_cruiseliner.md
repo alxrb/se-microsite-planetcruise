@@ -1,7 +1,7 @@
 ---
+order: #
 title: #
 class: #
-cruiseline: #
-price: #
+info: #
 cruise-url: #
 ---

@@ -1,6 +1,6 @@
 <div class="page-offers">
   <ul class="clearfix">
-    {% assign cruiseliners = site.cruiseliners %}
+    {% assign cruiseliners = site.cruiseliners | sort:'order'%}
     {% for cruiseliner in cruiseliners %}
       {% include cruiseliner-block.html %}
     {% endfor %}
