@@ -1,0 +1,14 @@
+- class: romantic-rhine-cruise
+  title: Romantic Rhine cruise
+  category: river
+  cruiseline: A scenic full-board cruise from Amsterdam to Zurich, with guided city tours and all travel
+  price: 1789
+  price-description: per person for 7 nights
+  cruise-url: https://www.secretescapes.com/romantic-rhine-cruise-from-amsterdam-to-zurich-on-board-the-avalon-felicity/sale
+- class: vietnam-cambodia-holiday-with-junk-cruise
+  title: Vietnam & Cambodia holiday with junk cruise
+  category: far-east-and-asia
+  cruiseline: Explore Vietnam and Cambodia, with city stays, a junk cruise, beach break and all travel
+  price: 1,929
+  price-description: per person for 14 nights
+  cruise-url: https://www.secretescapes.com/vietnam-and-cambodia-holiday-with-junk-cruise-hanoi-halong-bay-siem-reap-and-danang/sale

@@ -28,7 +28,7 @@ permalink: index.html
     <ul class="clearfix">
 
       <!-- shows the 6 cheapest offers by price -->
-      {% assign offers = site.offers | sort: 'price' %}
+      {% assign offers = site.data.offers | sort: 'price' %}
       {% for offer in offers limit: 6 %}
         {% include offer-block.html %}
       {% endfor %}

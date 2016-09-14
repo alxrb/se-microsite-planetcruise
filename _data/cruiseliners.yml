@@ -1,0 +1,16 @@
+- title: Princess
+  class: princess
+  info: Lorem ipsum dolor sit amet, consectetur adipisicing
+  cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=12344&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+- title: Royal Caribbean
+  class: royal-caribbean
+  info: Last minute cruise offers from £469 per person
+  cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=96&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+- title: Cunard
+  class: cunard
+  info: Lorem ipsum dolor sit amet, consectetur adipisicing
+  cruise-url: #
+- title: P & O
+  class: p-o
+  info: P&O Cruises 2018 summer itineraries on sale soon
+  cruise-url: http://www.planetcruise.co.uk/pocruises-prereg?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-po
