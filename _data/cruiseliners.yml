@@ -1,16 +1,29 @@
 - title: Princess
   class: princess
-  info: Lorem ipsum dolor sit amet, consectetur adipisicing
+  info: Free Balcony upgrades, Kids pay 50% & only £50pp deposit required
   cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=12344&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
 - title: Royal Caribbean
   class: royal-caribbean
-  info: Last minute cruise offers from £469 per person
+  info: Exclusive savings & Free all-inclusive drinks on 2017 sailings
   cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=96&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
 - title: Cunard
   class: cunard
-  info: Lorem ipsum dolor sit amet, consectetur adipisicing
-  cruise-url: #
+  info: Only 5% low deposit, Save up to 15% and receive free onboard spend & parking.
+  cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13443&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
 - title: P & O
   class: p-o
-  info: P&O Cruises 2018 summer itineraries on sale soon
-  cruise-url: http://www.planetcruise.co.uk/pocruises-prereg?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-po
+  info: Only 5% low deposit, Save up to 20% and receive free onboard spend & parking.
+  cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13510&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
+- title: River
+  class: river
+  info: Save up to £1,000 pp on all 2017 sailings when you book by 30 September 2016
+  cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13281&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
+- title: Regent
+  class: regent
+  info: Luxury Regent Seven Seas 2017 Cruise to the Mediterranean & receive up to $300 On board credit. Book by 4 November 2016
+  cruise-url: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=14470&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
