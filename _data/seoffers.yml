@@ -1,14 +1,23 @@
-- class: romantic-rhine-cruise
-  title: Romantic Rhine cruise
-  category: river
-  cruiseline: A scenic full-board cruise from Amsterdam to Zurich, with guided city tours and all travel
-  price: 1789
-  price-description: per person for 7 nights
-  cruise-url: https://www.secretescapes.com/romantic-rhine-cruise-from-amsterdam-to-zurich-on-board-the-avalon-felicity/sale
-- class: vietnam-cambodia-holiday-with-junk-cruise
-  title: Vietnam & Cambodia holiday with junk cruise
-  category: far-east-and-asia
-  cruiseline: Explore Vietnam and Cambodia, with city stays, a junk cruise, beach break and all travel
-  price: 1,929
+- class: scenic-caribbean-cruise-orlando-break
+  title: Scenic Caribbean cruise & Orlando break
+  category: caribbean
+  cruiseline: Ten unforgettable nights split between Orlando and an all-inclusive Caribbean cruise, with flights
+  price: 999
+  price-description: per person for 10 nights
+  cruise-url: https://www.secretescapes.com/scenic-caribbean-cruise-with-orlando-break-red-lion-hotel-orlando-florida-and-a-norwegian-epic-cruise/sale?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
+
+- class: idyllic-indian-ocean-cruise
+  title: Idyllic Indian Ocean cruise
+  category: rest-of-the-world
+  cruiseline: A blissful 14-night full-board Indian Ocean cruise to Mauritius, Seychelles and Madagascar
+  price: 1,599
   price-description: per person for 14 nights
-  cruise-url: https://www.secretescapes.com/vietnam-and-cambodia-holiday-with-junk-cruise-hanoi-halong-bay-siem-reap-and-danang/sale
+  cruise-url: https://www.secretescapes.com/idyllic-indian-ocean-cruise-mauritius-seychelles-and-madagascar/sale?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
+
+- class: turkey-gulet-cruise
+  title: Turkey gulet cruise
+  category: mediterranean
+  cruiseline: A traditional gulet cruise around Turkey's turquoise coast, with full board and all travel
+  price: 389
+  price-description: per person for 7 nights
+  cruise-url: https://www.secretescapes.com/turkey-gulet-cruise-marmaris-fethiye/sale?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
