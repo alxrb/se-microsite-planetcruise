@@ -3,6 +3,36 @@ layout: default
 title: Exclusive Offers
 class: offers
 weight: 8
+
+exclusive-offers:
+
+  - title: Save up tp £1350pp with Avalon Waterways
+    description: Book before 19th December 2016 & receive a free case of wine
+    price: 1069
+    link: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13351&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
+  - title: Save up to £1000pp on all 2017 Viking River Cruises
+    description: Book before 31st October 2016
+    price: 1895
+    link: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13281&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
+  - title: Cunard 2018 itineraries now on sale
+    description: 5% Deposit & save up to 15%
+    price: 186
+    link: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13443&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
+  - title: MSC Free Balcony Upgrade
+    description: Free upgrade to balcony cabin & exclusive Cruise & Stay packages
+    price: 469
+    link: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=13408&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
+
+  - title: Last Minute Cruise offers
+    price: 429
+    link: http://www.planetcruise.co.uk/last-minute-cruises?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EOd
+
+  - title: No-Fly Cruise offers
+    price: 499
+    link: http://www.planetcruise.co.uk/holidaysearch/promotion?promotionid=136&utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO
 ---
 
 <div class="page-head">
@@ -11,9 +41,30 @@ weight: 8
 
 <div id="offers" class="main">
 
-  <a id="link-image-offers-banner" href="http://www.planetcruise.co.uk/alaska-brochure-2016?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-Brochure"><img class="banner" src="images/banner-alaska.jpg" alt=""></a>
+  <a id="link-image-offers-banner" href="http://www.planetcruise.co.uk/asia-brochure?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-EO"><img class="banner" src="images/banner-asia.jpg" alt=""></a>
 
-  {% include cruiseliners-section.html %}
+  <div class="page-offers">
+    <ul class="clearfix">
+      {% assign exc-offers = page.exclusive-offers %}
+      {% for exc-offer in exc-offers %}
+        <li id="offer-{{ exc-offer.title | slugify }}" class="offer">
+          <a href="{{ exc-offer.link }}">
+            <div class="offer__image">
+              <div class="offer__button">View Offers</div>
+              <img src="images/exclusive-offers/{{ exc-offer.title | slugify }}.jpg" alt="{{ exc-offer.title }}">
+            </div>
+            <div class="offer__content">
+              <h3 class="offer__title">{{ exc-offer.title }}</h3>
+              {% if exc-offer.description %}<p class="offer__description">{{ exc-offer.description }}</p>{% endif %}
+            </div>
+            <div class="offer__bottom">
+              <p>From <span class="offer__price">£{{ exc-offer.price }}pp</span></p>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 
   <div class="se-offers-section">
     <h1 class="white-title">Secret Escapes Offers</h1>
@@ -31,8 +82,6 @@ weight: 8
     </ul>
   </div>
 
-
   {% include price-guarantee.html %}
-
 
 </div>

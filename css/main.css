@@ -785,7 +785,6 @@ video {
 
 .content-intro {
 	margin-bottom: 15px;
-	float: left;
 	padding: 50px 60px 22px 60px;
 }
 
@@ -871,128 +870,6 @@ video {
 	padding: 17px 24px;
 	font-size: 1.3rem;
 	text-align: center;
-}
-
-.se-offer {
-	position: relative
-}
-
-.se-offer:nth-child(odd) {
-  margin-right: 5%;
-}
-
-.se-offer-copy {
-	background:#fff;
-	padding: 22px;}
-
-.se-offer-copy p {
-	font-size: 0.9rem;
-	margin-bottom: 0;
-}
-
-.se-offer-copy p {
-	color:#282828
-}
-
-.se-offer-img {
-	background:#fff;
-}
-
-p.se-offer-location {
-	font-weight: 600;
-	font-style:normal;
-	font-size: 0.7rem !important;
-	background-size: 16px;
-	margin: 0px !important;
-	color: #c93e6a;
-	background-position-y: -1px;
-	text-transform: uppercase;
-	letter-spacing: 0.5px;
-}
-
-.se-offer-price {
-	background: #c93e6a;
-	padding: 10px 26px 18px 26px;
-	transition:ease all 0.4s;
-}
-
-.se-offer-price p {
-	color:#fff;
-	margin-bottom: -2px;
-	padding-top: 5px;
-}
-
-.se-offer-price .now-price {
-	font-weight: 500;
-	font-size:1.2rem;
-	font-style:normal
-}
-
-.se-offer-price .was-price {
-	text-decoration:line-through;
-}
-
-.remaining-offer-time {
-	font-weight: 400;
-	font-size:0.8rem;
-	font-style:normal;
-	margin-top:3px;
-}
-
-.offer-btn {
-	position:absolute;
-	top: 40%;
-	width:100px;
-	right:50%;
-	margin-right:-60px;
-	text-align: center;
-	opacity:0;
-	transition:ease all 0.4s;
-	background-color: #c93e6a;
-	color:#fff;
-	text-transform:uppercase;
-	letter-spacing:2px;
-	border-radius: 2px;
-	font-size:0.76rem;
-	padding:10px;
-}
-
-
-.se-offer:hover .offer-btn  {
-	opacity:1;
-	top: 26%;
-}
-
-.se-offer-copy .offer-info{
-  display: inline-block;
-  padding: 5px 12px;
-  margin-top: 10px;
-  margin-right: 4px;
-  border-radius: 5px;
-  color: #fff;
-  background-color: #0079a8;
-  font-weight: 400;
-  font-size: 0.8em;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-}
-
-@media only screen and (max-width: 1024px) {
-.offer-btn {
-	top: 100%;
-	opacity:1;
-	right:0;
-	margin-right:0;
-	margin-top:-45px;
-	font-size:0.6rem;
-	background:none;
-}
-
-.se-offer:hover .offer-btn  {
-	opacity:1;
-	top: 100%;
-}
-
 }
 
 
@@ -1552,21 +1429,149 @@ video {
 	}
 }
 
-.banner{
-  margin-bottom: 44px;
+
+
+/* ==========================================================================
+   OFFERS
+   ========================================================================== */
+
+.offer {
+  position: relative;
+  background:#fff;
+  color:#282828;
+}
+.offer:nth-child(odd) { margin-right: 5%; }
+.offer a,
+.offer a:hover,
+.offer a:active {
+  color: #282828;
+}
+/*.offer__description { padding: 22px; }*/
+.offer__content{
+  padding: 22px;
+  font-size: .9rem;
+  letter-spacing: .02em;
+}
+.offer__content > * {
+  margin-bottom: 0;
+}
+.offer__content > * + * {
+	margin-top: .5em;
+}
+.offer__title {
+  font-size: 1.5em;
+  line-height: 1.2;
+  color: #4d4d4d;
+}
+.offer__description {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-weight: 200;
+  font-size: .9em;
+  letter-spacing: 0.025em;
+  color: #0079a8;
+  background-color: #e0f3fe;
+  font-weight: 400;
+}
+.offer__details {
+  padding-top: .33em;
+  padding-bottom: .33em;
+	font-size: 0.7rem;
+  font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+  line-height: 1.8;
+}
+.offer__details span {
+  display: inline-block;
+  padding-left: .75em;
+  padding-right: .75em;
+}
+.offer__details span:first-child{ padding-left: 0; }
+.offer__details span + span {
+  border-left: 1px solid #d9d9d9;
+  padding-left: .75em;
+}
+.offer__bottom {
+	background: #c93e6a;
+	padding: 10px 26px 18px 26px;
+	transition:ease all 0.4s;
+}
+.offer__bottom p {
+	color:#fff;
+	margin-bottom: -2px;
+	padding-top: 5px;
+}
+.offer__price {
+	font-weight: 500;
+	font-size:1.2rem;
+	font-style:normal
+}
+.offer__button {
+	position:absolute;
+	top: 40%;
+	width:160px;
+	right:50%;
+	margin-right:-90px;
+	text-align: center;
+	opacity:0;
+	transition:ease all 0.4s;
+	background-color: #c93e6a;
+	color:#fff;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	border-radius: 2px;
+	font-size:0.76rem;
+	padding:10px;
+}
+.offer:hover .offer__button {
+	opacity:1;
+	top: 26%;
+}
+@media only screen and (max-width: 1024px) {
+  .offer__button {
+  	top: 100%;
+  	opacity:1;
+  	right:0;
+  	margin-right:0;
+  	margin-top:-45px;
+  	font-size:0.6rem;
+  	background:none;
+    display: inline-block;
+    width: auto;
+    padding-right: 20px;
+  }
+  .offer:hover .offer__button {
+  	opacity:1;
+  	top: 100%;
+  }
 }
 
 
 
-/* --- registration marks --- */
+/* ==========================================================================
+   ADDITIONAL STYLES
+   ========================================================================== */
 
+.banner{ margin-bottom: 44px; }
+/* --- registration marks --- */
 #celebrity-cruises h3:after,
 #royal-caribbean h3:after{
-  content: "®";
-  font-size: 0.33em;
-  vertical-align: super;
+ content: "®";
+ font-size: 0.33em;
+ vertical-align: super;
 }
-
-
-
 .textbar { color: rgba(255,255,255,0.2); margin: 0 6px; }
+.align-center { text-align: center; }
+a.btn {
+  display: inline-block;
+  padding: .75em 2em;
+  color: white;
+  font-size: .9em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  border-radius: 2px;
+  background-color: #c93e6a;
+}

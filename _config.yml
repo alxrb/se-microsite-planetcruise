@@ -6,37 +6,4 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
-exclude: [node_modules, gulpfile.js]
-
-
-####################   offers   ####################
-
-# create custom collection
-collections:
-  offers:
-    output: true,
-  seoffers:
-    output: true,
-  cruiseliners:
-    output: true
-# set default layout for collection
-defaults:
-  -
-    scope:
-      path: ""
-      type: "offers"
-    values:
-      layout: "blank"
-  -
-    scope:
-      path: ""
-      type: "seoffers"
-    values:
-      layout: "blank"
-  -
-    scope:
-      path: ""
-      type: "cruiseliners"
-    values:
-      layout: "blank"
-
+exclude: [node_modules, gulpfile.js, package.json, bower_components, bower.json, README.md]

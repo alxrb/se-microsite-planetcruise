@@ -1,393 +1,354 @@
 ########################## MEDITERRANEAN
 
-- class: greek-treasures-with-stay
-  title: Greek Treasures with Stay
+- title: Festive Med plus Christmas in Rome
   category: mediterranean
-  cruiseline: Holland America Line - ms Koningsdam
-  special-info: 2 Nt hotel stay in Rome, private overseas transfers, direct return flights & baggage
-  price: 1079
-  nights: 14
-  date: 2016-09-28
-  cruise-url: http://www.planetcruise.co.uk/holland-america-line-cruises/ms-koningsdam/28-september-2016/121075?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
+  cruiseline: Costa Cruises
+  description: Spend Christmas in Rome Flights, Transfers and baggage included <br>Family of 4 from £2,495
+  price: 689
+  nights: 7
+  date: 2016-12-23
+  link: http://www.planetcruise.co.uk/costa-cruises/costa-luminosa/23-december-2016/126815?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
 
-- class: luxury-mediterranean-rome-to-so-ton
-  title: Luxury Mediterranean – Rome to Southampton
+- title: Italy & Spain from Rome
   category: mediterranean
-  cruiseline: Cunard Line – Queen Victoria
-  special-info: Port and Handling fees and taxes
-  price: 835
+  cruiseline: Celebrity Cruises
+  description: Free drinks & kids get 50% off. 2 night stay in Rome from only £99pp
+  price: 1095
+  nights: 10
+  date: 2017-05-02
+  link: http://www.planetcruise.co.uk/celebrity-cruises/celebrity-constellation/02-may-2017/109093?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
+
+- title: All Inclusive Portugal Break
+  category: mediterranean
+  cruiseline: Fred. Olsen Cruise Line
+  description: No single supplement
+  price: 289
+  nights: 3
+  date: 2016-11-07
+  link: http://www.planetcruise.co.uk/fred-olsen-cruises/braemar/07-november-2016/94665?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
+
+- title: Monaco Grand Prix & Nice Stay
+  category: mediterranean
+  cruiseline: MSC Cruises
+  description: Hosted hotel stay, F1 Tickets & escorted transfers
+  price: 1,349
+  nights: 10
+  date: 2017-05-19
+  link: http://www.planetcruise.co.uk/msc-cruises/msc-splendida/19-may-2017/121442?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
+
+- title: Luxury Mediterranean Rome to Southampton
+  category: mediterranean
+  cruiseline: Cunard Line
+  description: Last minute special offer with free upgrade to oceanview
+  price: 735
   nights: 10
   date: 2016-11-05
-  cruise-url: http://www.planetcruise.co.uk/cunard-cruises/queen-victoria/05-november-2016/98090?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
+  link: http://www.planetcruise.co.uk/cunard-cruises/queen-victoria/05-november-2016/98090?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
 
-- class: spain-sicily-balearic-islands-from-savona
-  title: Spain, Sicily & Balearic Islands from Savona
+- title: Mediterranean Explorer from Southampton
   category: mediterranean
-  cruiseline: Costa Cruises - Costa Mediterranea
-  special-info: Flights and transfers. Outside cabin.
-  price: 459
-  nights: 7
-  date: 2016-12-10
-  cruise-url: http://www.planetcruise.co.uk/costa-cruises/costa-mediterranea/10-december-2016/124088?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
-
-- class: western-med-so-ton-to-malta
-  title: Western Med – Southampton to Malta
-  category: mediterranean
-  cruiseline: P & O Cruises – Oceana
-  special-info: Lower prices on spend or parking for saver fares
-  price: 575
-  nights: 10
-  date: 2017-03-27
-  cruise-url: http://www.planetcruise.co.uk/po-cruises/oceana/27-march-2017/117597?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
-
-- class: scandinavia-russia-from-southampton
-  title: Scandinavia & Russia from Southampton
-  category: mediterranean
-  cruiseline: Celebrity Cruises – Celebrity Eclipse
-  special-info: All port taxes and fees included, *Aqua Class
-  price: 1179
+  cruiseline: Royal Caribbean
+  description: No-fly cruise
+  price: 923
   nights: 14
-  date: 2017-07-02
-  cruise-url: http://www.planetcruise.co.uk/celebrity-cruises/celebrity-eclipse/02-july-2017/107964?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
-
-- class: monaco-gp-italy-adriatic-from-barcelona
-  title: Monaco GP, Italy & Adriatic from Barcelona
-  category: mediterranean
-  cruiseline: Celebrity Cruises – Celebrity Constellation
-  special-info: Return flights and transfers
-  price: 1259
-  nights: 10
-  date: 2017-05-26
-  cruise-url: http://www.planetcruise.co.uk/celebrity-cruises/celebrity-constellation/26-may-2017/107951?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
+  date: 2017-05-01
+  link: http://www.planetcruise.co.uk/royal-caribbean-cruises/independence-of-the-seas/01-may-2017/113874?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
 
 ########################## MEDITERRANEAN - END
 
 
 ########################## CARIBBEAN
 
-- class: eastern-caribbean-from-barbados
-  title: Eastern Caribbean from Barbados
+- title: Eastern caribbean from Barbados
   category: caribbean
-  cruiseline: P & O Cruises – Azura
-  special-info: Flights from Birmingham, London Gatwick & Manchester
-  price: 1079
+  cruiseline: P&O Cruises
+  description: Regional flights from Birmingham, Gatwick & Manchester
+  price: 1155
   nights: 15
-  date: 2016-11-25
-  cruise-url: http://www.planetcruise.co.uk/po-cruises/azura/25-november-2016/97453?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
+  date: 2016-12-03
+  link: http://www.planetcruise.co.uk/po-cruises/britannia/03-december-2016/97641?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARI
 
-- class: caribbean-christmas-from-san-juan
-  title: Caribbean Christmas from San Juan
+- title: Fort Lauderdale Stay & Cruise
   category: caribbean
-  cruiseline: Viking Cruises- Viking Star
-  special-info: Overnight stay in San Juan, free silver spirits drinks package, flights, trips, transfers & Free WIFI
-  price: 2489
-  nights: 10
-  date: 2016-12-17
-  cruise-url: http://www.planetcruise.co.uk/viking-cruises/viking-star/17-december-2016/108356?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
+  cruiseline: Cunard Line
+  description: Two-night hotel stay in Fort Lauderdale
+  price: 1699
+  nights: 16
+  date: 2017-04-19
+  link: http://www.planetcruise.co.uk/cunard-cruises/queen-victoria/19-april-2017/106714?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARI
 
-- class: barbados-stay-southern-caribbean
-  title: Barbados Stay & Southern Caribbean
+- title: Caribbean, Madeira & Spain from Jamaica
   category: caribbean
-  cruiseline: Carnival - Carnival Fascination
-  special-info: 3 Nt Barbados Beach Resort stay, return flights from London, all overseas transfer included
-  price: 1399
-  nights: 11
-  date: 2017-03-05
-  cruise-url: http://www.planetcruise.co.uk/carnival-cruises/carnival-fascination/05-march-2017/119955?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
+  cruiseline: Thomson Cruises
+  description: Free upgrade to all-inclusive with regional flights. Regional flights available at a supplement
+  price: 1319
+  nights: 16
+  date: 2017-04-11
+  link: http://www.planetcruise.co.uk/thomson-cruises/thomson-dream/11-april-2017/107755?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARI
 
-- class: mardi-gras-chicago-memphis-caribbean
-  title: Mardi Gras, Chicago, Memphis & Caribbean
+- title: Western Caribbean from Tampa
   category: caribbean
-  cruiseline: Norwegian Cruise Line – Norwegian Dawn
-  special-info: 2 Nt Chicago Hotel Stay, 2 Nt Memphis Hotel Stay, 2 Nt New Orleans Hotel Stay, free All Inclusive drinks package
-  price: 1599
+  cruiseline: Norwegian Cruise Line
+  description: Free all-inclusive drinks package
+  price: 1,123
+  nights: 7
+  date: 2017-01-02
+  link: http://www.planetcruise.co.uk/norwegian-cruise-line-cruises/norwegian-jade/02-january-2017/112486?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARI
+
+- title: Orlando Stay & Eastern Caribbean
+  category: caribbean
+  cruiseline: Carnival
+  description: Three-night hotel stay in Orlando
+  price: 949
+  nights: 12
+  date: 2016-11-22
+  link: http://www.planetcruise.co.uk/carnival-cruises/carnival-magic/22-november-2016/126303?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARI
+
+- title: Tampa, Florida Keys, Miami & Azores
+  category: caribbean
+  cruiseline: Norwegian Cruise Line
+  description: One-night hotel stay in Tempa  Free all-inclusive drinks package
+  price: 1,179
   nights: 15
-  date: 2017-02-05
-  cruise-url: http://www.planetcruise.co.uk/norwegian-cruise-line-cruises/norwegian-dawn/05-february-2017/125709?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
-
-- class: caribbean-transatlantic-from-southampton
-  title: Caribbean Transatlantic from Southampton
-  category: caribbean
-  cruiseline: P & O Cruises – Azura
-  special-info: Fly back to Manchester + fly back to Birmingham fr £99p
-  price: 849
-  nights: 15
-  date: 2016-10-28
-  cruise-url: http://www.planetcruise.co.uk/po-cruises/azura/28-october-2016/97436?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
-
-- class: caribbean-highlights-big-band-ball
-  title: Caribbean Highlights & Big Band Ball
-  category: caribbean
-  cruiseline: Cunard Line – Queen Victoria
-  special-info: Port and Handling fees & taxes
-  price: 1375
-  nights: 24
-  date: 2016-11-15
-  cruise-url: http://www.planetcruise.co.uk/cunard-cruises/queen-victoria/15-november-2016/98092?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
-
+  date: 2017-04-29
+  link: http://www.planetcruise.co.uk/norwegian-cruise-line-cruises/norwegian-jade/29-april-2017/112501?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARI
 
 ########################## CARIBBEAN - END
 
 
+########################## REST OF THE WORLD
+
+- title: Las Vegas Stay & Hawaiian Islands Cruise
+  category: rest-of-the-world
+  cruiseline: Princess Cruises
+  description: Three-nights free Las Vegas hotel stay <br>Return flights & LA transfers
+  price: 1,499
+  nights: 19
+  date: 2017-02-19
+  link: http://www.planetcruise.co.uk/princess-cruises/star-princess/19-february-2017/126678?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
+
+- title: Sprintime Gardens & River Seine
+  category: rest-of-the-world
+  cruiseline: Cruise & Maritime
+  description: Departs from Bristol Overnight in Rouen, France
+  price: 695
+  nights: 7
+  date: 2017-04-26
+  link: http://www.planetcruise.co.uk/cruise-and-maritime-cruises/marco-polo/26-april-2017/117915?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
+
+- title: Norwegian Fjords from Southampton
+  category: rest-of-the-world
+  cruiseline: Norwegian Cruise Line
+  description: Free all-inclusive drinks package <br>Family of four for £2,789
+  price: 819
+  nights: 10
+  date: 2017-08-09
+  link: http://www.planetcruise.co.uk/norwegian-cruise-line-cruises/norwegian-jade/09-august-2017/112547?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
+
+- title: Belgium, Germany & France
+  category: rest-of-the-world
+  cruiseline: MSC Cruises
+  description: Hurry, this offer won’t be around long! Overnight stay onboard in Hamburg
+  price: 399
+  nights: 7
+  date: 2017-09-06
+  link: http://www.planetcruise.co.uk/msc-cruises/msc-preziosa/06-september-2017/116216?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
+
+- title: Dubai & Emirates
+  category: rest-of-the-world
+  cruiseline: Royal Caribbean
+  description: Fly from London Heathrow – regional flights available at a supplement <br>Overnight stay onboard in Muscat & Dubai
+  price: 639
+  nights: 8
+  date: 2017-01-15
+  link: http://www.planetcruise.co.uk/royal-caribbean-cruises/vision-of-the-seas/15-january-2017/99839?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
+
+- title: Emirates & Oman with Dubai Stay
+  category: rest-of-the-world
+  cruiseline: Costa Cruises
+  description: Two-night hotel stay in Dubai <br>Flights, transfers & baggage included
+  price: 699
+  nights: 10
+  date: 2017-01-25
+  link: http://www.planetcruise.co.uk/costa-cruises/costa-neoriviera/25-january-2017/126890?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
+
+
+########################## REST OF THE WORLD - END
+
+
 ########################## FAR EAST ASIA
 
-- class: snow-monkeys-kyoto-mt-fuji-tropical-japan
-  title: Snow Monkeys, Kyoto, Mt.Fuji & Tropical Japan
+- title: Hong Kong, Vietnam & Thailand with Stays over Christmas
   category: far-east-and-asia
-  cruiseline: Princess Cruises – Diamond Princess
-  special-info: 6 Nt Japan land tour, selected meals, all transfers & a journey on the Bullet Train
-  price: 3299
-  nights: 17
-  date: 2017-11-03
-  cruise-url: http://www.planetcruise.co.uk/princess-cruises/diamond-princess/03-november-2017/123238?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
+  cruiseline: Azamara Cruises
+  description: Two night Hong Kong & Singapore stay <br>Return flights & private overseas transfers
+  price: 1,999
+  nights: 20
+  date: 2016-12-07
+  link: http://www.planetcruise.co.uk/azamara-cruises/azamara-journey/07-december-2016/126437?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
 
-- class: singapore-to-dubai-with-thailand-india-oman
-  title: Singapore to Dubai with Thailand, India & Oman
+- title: Luxury Sydney to Kobe, Japan
   category: far-east-and-asia
-  cruiseline: Norwegian Cruise Line – Norwegian Star
-  special-info: 2 Nt stay in Singapore, 2 Nt stay in Dubai, free all inclusive drinks
-  price: 2549
-  nights: 23
-  date: 2017-03-06
-  cruise-url: http://www.planetcruise.co.uk/norwegian-cruise-line-cruises/norwegian-star/06-march-2017/105557?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
-
-- class: bangkok-siem-reap-singapore-vietnam-delights
-  title: Bangkok, Siem Reap, Singapore & Vietnam Delights
-  category: far-east-and-asia
-  cruiseline: Princess Cruises – Diamond Princess
-  special-info: Hotel stays, Floating Markets, tours & all overseas transfers and return flights
-  price: 1849
-  nights: 16
+  cruiseline: Cunard Line
+  description: Departs from Sydney with flights and transfers included
+  price: 1939
+  nights: 18
   date: 2017-02-24
-  cruise-url: http://www.planetcruise.co.uk/princess-cruises/diamond-princess/24-february-2017/124045?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
+  link: http://www.planetcruise.co.uk/cunard-cruises/queen-elizabeth/24-february-2017/104339?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
 
-- class: far-east-delights-with-angkor-wat-cambodia-tour
-  title: Far East Delights with Angkor Wat & Cambodia Tour
+- title: Southeast Asia from Singapore
   category: far-east-and-asia
-  cruiseline: Celebrity Cruises - Celebrity Millennium
-  special-info: 6-Nt Cambodia Tour including Angkor Wat, 2-Nt hotel stay in Singapore + flights & transfers
-  price: 2799
-  nights: 24
-  date: 2017-11-03
-  cruise-url: http://www.planetcruise.co.uk/celebrity-cruises/celebrity-millennium/03-november-2017/125724?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
-
-- class: discover-cambodia-land-tour-cruise-south-east-asia
-  title: Discover Cambodia Land Tour & Cruise South East Asia
-  category: far-east-and-asia
-  cruiseline: Royal Caribbean – Mariner of the Seas
-  special-info: 6 Nt Cambodia Land Tour, 2 Nt hotel stay in Singapore, return UK flights & all overseas transfers
-  price: 2079
+  cruiseline: Norwegian Cruise Line
+  description: Free all-inclusive <br>Two-night stay in Singapore & Hong Kong + tour <br>Overnight stay in Laem Chabang
+  price: 1,849
   nights: 17
-  date: 2018-01-30
-  cruise-url: http://www.planetcruise.co.uk/royal-caribbean-cruises/mariner-of-the-seas/30-january-2018/123386?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
+  date: 2018-03-07
+  link: http://www.planetcruise.co.uk/norwegian-cruise-line-cruises/norwegian-jewel/07-march-2018/123649?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
 
-- class: sydney-to-hong-kong
-  title: Sydney to Hong Kong
+- title: Ultimate Cambodia Land Tour & Asia Cruise
   category: far-east-and-asia
-  cruiseline: Cruise and Maritime - Magellan
-  special-info: Early Booking Saver Fare promotion, Guest speaker
-  price: 1779
-  nights: 28
-  date: 2017-02-23
-  cruise-url: http://www.planetcruise.co.uk/cruise-and-maritime-cruises/magellan/23-february-2017/101671?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
+  cruiseline: Princess Cruises
+  description: Six-night Cambodia Land Tour with selected meals <br>Two-night hotel stay in Singapore
+  price: 2,749
+  nights: 20
+  date: 2018-02-16
+  link: http://www.planetcruise.co.uk/princess-cruises/sapphire-princess/16-february-2018/123192?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
 
+- title: Eastbound from Bali
+  category: far-east-and-asia
+  cruiseline: Star Clippers
+  description: "Alternative dates: 15 Jul/12 Aug/26 Aug/9 Sep <br>Authentic tall-ship sailing experience"
+  price: 1,299
+  nights: 7
+  date: 2017-07-01
+  link: http://www.planetcruise.co.uk/star-clippers-cruises/star-clipper/01-july-2017/118481?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
+
+- title: Spice of Southeast Asia with Stay
+  category: far-east-and-asia
+  cruiseline: Royal Caribbean
+  description: Two-night hotel stay in Singapore <br>Overnight stay onboard in Phuket (Thailand)
+  price: 1,299
+  nights: 11
+  date: 2017-02-28
+  link: http://www.planetcruise.co.uk/royal-caribbean-cruises/mariner-of-the-seas/28-february-2017/122261?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-FEA
 
 ########################## FAR EAST ASIA - END
 
 
 ########################## RIVER
 
-- class: romantic-danube
-  title: Romantic Danube
+- title: Gems of the Danube from Budapest
   category: river
-  cruiseline: Viking River Cruises – Viking Longship Gullveig
-  special-info: Overnights onboard in Budapest & Nuremberg, tour of Vienna, optional excursion to the Danube Narrows
-  price: 895
+  cruiseline: Scenic River Cruises
+  description: Overnights onboard in Budapest, Nuremberg & Vienna + Guided tour to Melk's 18th century Benedictine Abbey <br>Unlimited complimentary drinks + Excursions at every port
+  price: 1,599
   nights: 7
-  date: 2017-12-09
-  cruise-url: http://www.planetcruise.co.uk/viking-river-cruises/viking-longship-gullveig/09-december-2017/123867?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
+  date: 2017-04-03
+  link: http://www.planetcruise.co.uk/scenic-river-cruises/scenic-opal/03-april-2017/115738?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
 
-- class: burgundy-the-river-rhone-provence
-  title: Burgundy, the River Rhone & Prove
+- title: 6* Ultra Luxury all inclusive Bordeaux, Vineyards & Chateaux
   category: river
-  cruiseline: Riviera Travel – MS Lord Byron
-  special-info: Overnights onboard in Lyon and Avignon & tours of the Pope’s Palace
-  price: 1199
+  cruiseline: Uniworld River Cruises
+  description: Free Business Class flights £100pp onboard credit <br>Unlimited drinks + Excursions at every port
+  price: 1,999
+  nights: 7
+  date: 2017-04-09
+  link: http://www.planetcruise.co.uk/uniworld-river-cruises/river-royale/09-april-2017/120450?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
+
+- title: A taste of the Danube from Vienna
+  category: river
+  cruiseline: Avalon Waterways
+  description: Two-night hotel stay in Budapest & Vienna + Save up to £1,350pp & receive a free case of wine <br>Excursions at every port + Free VIP transfers
+  price: 1729
+  nights: 7
+  date: 2017-07-25
+  link: http://www.planetcruise.co.uk/avalon-waterways-cruises/avalon-luminary/25-july-2017/111822?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
+
+- title: Burgundy, the River Rhone & Provence
+  category: river
+  cruiseline: Riviera Travel
+  description: Overnights onboard in Lyon & Avignon + Tour <br>Single cabins available at no supplement
+  price: 1,199
   nights: 7
   date: 2017-04-06
-  cruise-url: http://www.planetcruise.co.uk/riviera-travel-cruises/ms-lord-byron/06-april-2017/114425?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
+  link: http://www.planetcruise.co.uk/riviera-travel-cruises/ms-lord-byron/06-april-2017/114425?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
 
-- class: dutch-sights-belgian-delights
-  title: Dutch Sights & Belgian Deligh
+- title: Magnificent Europe from Budapest
   category: river
-  cruiseline: Scenic River Cruises - Scenic Ruby
-  special-info: Flights, transfers, excursions, drinks, tips, visits & overnight onboard in Amsterdam
-  price: 1495
+  cruiseline: APTouring
+  description: Overnight stay onboard in Amsterdam, Vienna & Budapest <br>Royal Banquet at Namedy Castle + Save up to £1,500pp
+  price: 1,829
+  nights: 14
+  date: 2017-11-11
+  link: http://www.planetcruise.co.uk/aptouring-cruises/ms-amareina/11-november-2017/112767?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
+
+- title: Castles along the Rhine
+  category: river
+  cruiseline: Uniworld River Cruises
+  description: 6* Ultra all-inclusive luxury cruise + £100pp onboard credit <br>Free flights – meet & greet at the airport
+  price: 1,599
   nights: 7
-  date: 2017-05-22
-  cruise-url: http://www.planetcruise.co.uk/scenic-river-cruises/scenic-ruby/22-may-2017/115883?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
-
-- class: melodies-of-the-danube
-  title: Melodies of the Danube
-  category: river
-  cruiseline: AmaWaterways - AmaStella
-  special-info: Free Business Class flights from London Heathrow, overnights onboard & free meet and greet airport parking
-  price: 2199
-  nights: 7
-  date: 2017-04-26
-  cruise-url: http://www.planetcruise.co.uk/amawaterways-cruises/amastella/26-april-2017/119254?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
-
-- class: bordeaux-vineyards-chateaux
-  title: Bordeaux, Vineyards & Chate
-  category: river
-  cruiseline: Uniworld River Cruises - River Royale
-  special-info: Free Business Class Flights, free meet and greet airport parking, £100pp on-board credit.
-  price: 1999
-  nights: 7
-  date: 2017-07-02
-  cruise-url: http://www.planetcruise.co.uk/uniworld-river-cruises/river-royale/02-july-2017/120462?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
-
-- class: christmas-markets-along-the-danube-
-  title: Christmas Markets along the Danube
-  category: river
-  cruiseline: Crystal River Cruises – Crystal Mozart
-  special-info: Overnights onboard, Business Class flights from London Heathrow & free meet and greet airport parking
-  price: 2189
-  nights: 10
-  date: 2016-11-22
-  cruise-url: http://www.planetcruise.co.uk/crystal-river-cruises/crystal-mozart/22-november-2016/108380?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
-
+  date: 2017-10-25
+  link: http://www.planetcruise.co.uk/uniworld-river-cruises/river-empress/25-october-2017/120582?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-RIVER
 
 ########################## RIVER - END
 
 
-########################## REST OF THE WORLD
-
-- class: land-of-the-northern-lights-from-tilbury
-  title: Land of the Northern Lights from Tilbury
-  category: rest-of-the-world
-  cruiseline: Cruise and Maritime - Magellan
-  special-info: Adult Only
-  price: 665
-  nights: 14
-  date: 2016-10-29
-  cruise-url: http://www.planetcruise.co.uk/cruise-and-maritime-cruises/magellan/29-october-2016/101715?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
-
-- class: scandinavia-russia-from-southampton
-  title: Scandinavia & Russia from Southampton
-  category: rest-of-the-world
-  cruiseline: Celebrity Cruises – Celebrity Eclipse
-  special-info: All port taxes and fees included
-  price: 1179
-  nights: 14
-  date: 2017-07-02
-  cruise-url: http://www.planetcruise.co.uk/celebrity-cruises/celebrity-eclipse/02-july-2017/107964?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
-
-- class: half-term-scandinavia-from-southampton
-  title: Half Term Scandinavia from Southampton
-  category: rest-of-the-world
-  cruiseline: Princess Cruises – Crown Princess
-  special-info: Family of 4 from £2199
-  price: 735
-  nights: 7
-  date: 2017-05-27
-  cruise-url: http://www.planetcruise.co.uk/princess-cruises/crown-princess/27-may-2017/108779?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
-
-- class: canada-to-greenland-crossing-baffin-bay
-  title: Canada to Greenland – crossing Baffin Bay
-  category: rest-of-the-world
-  cruiseline: Hurtigruten – MS Spitsbergen
-  special-info: Exploring regions of Baffin Bay
-  price: 4699
-  nights: 13
-  date: 2017-07-24
-  cruise-url: http://www.planetcruise.co.uk/hurtigruten-cruises/ms-spitsbergen/24-july-2017/116396?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
-
-- class: arctic-highlights-tromso-stay
-  title: Arctic Highlights & Tromso Stay
-  category: rest-of-the-world
-  cruiseline: Hurtigruten – MS Nordnorge
-  special-info: Northern Lights experience + Flights from London Gatwick
-  price: 759
-  nights: 4
-  date: 2017-03-02
-  cruise-url: http://www.planetcruise.co.uk/hurtigruten-cruises/ms-nordnorge/02-march-2017/120327?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
-
-- class: luxury-easter-escape-from-southampton
-  title: Luxury Easter Escape from Southampton
-  category: rest-of-the-world
-  cruiseline: Saga Ocean Cruises – Saga Sapphire
-  special-info: Selected wines with lunch and dinner. Free door to door chauffeur or port parking.
-  price: 775
-  nights: 4
-  date: 2017-04-14
-  cruise-url: http://www.planetcruise.co.uk/saga-ocean-cruises/saga-sapphire/14-april-2017/117278?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
-
-
-########################## REST OF THE WORLD - END
-
-
 ########################## LUXURY
 
-- class: viking-homelands-stockholm-to-bergen
-  title: Viking Homelands – Stockholm to Bergen
+- title: Luxury All Inclusive Barbados round Trip with stay
   category: luxury
-  cruiseline: Viking Cruises – Viking Star
-  special-info: Flights, Transfers, Trips, drinks with meals, free WIFI access, Overnights onboard, explore the history of Germany’s capital, visits to the Danish royal residence
-  price: 4589
-  nights: 14
-  date: 2017-08-12
-  cruise-url: http://www.planetcruise.co.uk/viking-cruises/viking-star/12-august-2017/103113?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
+  cruiseline: Silversea Cruises
+  description: Three-night stay in Barbados + Free Fortnum & Mason Champagne & Chocolates gift
+  price: 2,499
+  nights: 11
+  date: 2017-11-29
+  link: http://www.planetcruise.co.uk/silversea-cruises/silver-wind/29-november-2017/115996?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
 
-- class: caribbean-cruise-from-san-juan
-  title: Caribbean Cruise from San Juan
+- title: West Indies explorer from San Jaun
   category: luxury
-  cruiseline: Silversea Cruises – Silver Wind
-  special-info: Return flights & Overseas transfers
-  price: 2799
-  nights: 12
-  date: 2017-03-16
-  cruise-url: http://www.planetcruise.co.uk/silversea-cruises/silver-wind/16-march-2017/106231?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
+  cruiseline: Viking Ocean Cruises
+  description: Free Silver Spirits drinks package included + Free speciality restaurants <br>Overnight stay onboard in San Juan, Puerto Rico <br>Flights, Transfers & Tips included
+  price: 2,489
+  nights: 10
+  date: 2018-01-16
+  link: http://www.planetcruise.co.uk/viking-cruises/viking-sea/16-january-2018/124526?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
 
-- class: bali-bangkok-vietnam-hong-kong-with-stays
-  title: Bali, Bangkok, Vietnam & Hong Kong with Stays
+- title: Luxury Yachting - Dubai Roundtrip with stay
   category: luxury
-  cruiseline: Azamara Cruises – Azamara Journey
-  special-info: 5 Night Bali Beach stay, 2 Night Singapore & Hong Kong stays & Overnight Onboard in Bangkok & Ho Chi Minh City & AzAmazing Evening, Tips
-  price: 2699
-  nights: 20
-  date: 2016-11-22
-  cruise-url: http://www.planetcruise.co.uk/azamara-cruises/azamara-journey/22-november-2016/111134?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
+  cruiseline: Crystal Cruises
+  description: Three-night stay in Atlantis The Palm Hotel + Dubai Private city-tour <br>Free Fortnum & Mason Champagne & Chocolates gift
 
-- class: adriatic-gems-from-rome
-  title: Adriatic Gems from Rome
-  category: luxury
-  cruiseline: Oceania Cruises – Riviera
-  special-info: Free WIFI + Free House Drinks Package or Up to $1000 Free Spend or Free Tours
-  price: 1399
-  nights: 7
-  date: 2016-11-02
-  cruise-url: http://www.planetcruise.co.uk/oceania-cruises/riviera/02-november-2016/95525?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
+  price: 5979
+  nights: 13
+  date: 2016-12-10
+  link: http://www.planetcruise.co.uk/crystal-cruises/crystal-esprit/10-december-2016/126853?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
 
-- class: gems-of-the-riviera-from-barcelona
-  title: Gems of the Riviera from Barcelona
+- title: All Inclusive 6* Gems of the Riviera from Barcelona
   category: luxury
-  cruiseline: Seabourn – Seabourn Odyssey
-  special-info: Return flights, Upgrade to Business Class flights from £199pp
-  price: 2599
+  cruiseline: Seabourn
+  description: Up to $1,000 onboard Spend + Free Fortnum & Mason Champagne & Chocolates gift <br>Return flights & overseas transfers (Business class flights - upgrade from £199pp) <br>Up to $1000 onboard spend
+  price: 2649
   nights: 7
   date: 2017-05-17
-  cruise-url: http://www.planetcruise.co.uk/seabourn-cruises/seabourn-odyssey/17-may-2017/105592?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
+  link: http://www.planetcruise.co.uk/seabourn-cruises/seabourn-odyssey/17-may-2017/105592?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
 
-- class: island-delight-from-miami
-  title: Island Delight from Miami
+- title: All Inclusive 6* Athens to Limasoll Yachting
   category: luxury
-  cruiseline: Regent Seven Seas – Regent Seven Seas Mariner
-  special-info: Choice of 30 different shore excursions, free Unlimited WIFI
-  price: 2279
+  cruiseline: Crystal Cruises
+  description: Two-night 5* Athens Hotel stay & tour + Business Class flights & private transfers <br>Free Fortnum & Mason Champagne & Chocolates gift
+  price: 2699
   nights: 9
-  date: 2017-01-03
-  cruise-url: http://www.planetcruise.co.uk/regent-seven-seas-cruises/regent-seven-seas-mariner/03-january-2017/106744?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
+  date: 2016-11-04
+  link: http://www.planetcruise.co.uk/crystal-cruises/crystal-esprit/04-november-2016/120369?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
 
+- title: All inclusive 6* Alaskan Summer from Vancouver
+  category: luxury
+  cruiseline: Regent Seven Seas
+  description: Free all-inclusive + unlimited WiFi + Up to $300 spend & up to $100 spa or ship credit
+  price: 3799
+  nights: 9
+  date: 2017-05-23
+  link: http://www.planetcruise.co.uk/regent-seven-seas-cruises/regent-seven-seas-mariner/23-may-2017/106818?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-LUX
 
 ########################## LUXURY - END

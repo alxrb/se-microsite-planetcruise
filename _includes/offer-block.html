@@ -1,21 +1,18 @@
-<li id="{{ offer.class }}" class="se-offer">
-  <a href="{{ offer.cruise-url }}" >
-    <div class="se-offer-img">
-      <div class="offer-btn">View Offer</div>
-      <img src="images/offers/{{ offer.class }}.jpg" alt="{{ offer.title }}">
+<li id="offer-{{ offer.title | slugify }}" class="offer">
+  <a href="{{ offer.link }}" >
+    <div class="offer__image">
+      <div class="offer__button">View Offer</div>
+      <img src="images/offers/{{ offer.title | slugify }}.jpg" alt="{{ offer.title }}">
     </div>
-    <div class="se-offer-copy">
-      <h3>{{ offer.title }}</h3>
-      <p class="se-offer-location">{{ offer.cruiseline }}</p>
-      {% if offer.special-info or offer.date %}
-        <div class="offer-info">
-          {% if offer.date %} {{ offer.date | date_to_long_string }} <span class="textbar">I</span> {% endif %}
-          {{ offer.special-info }}
-        </div>
-      {% endif %}
+    <div class="offer__content">
+      <h3 class="offer__title">{{ offer.title }}</h3>
+      <p class="offer__details">
+        <span>{{ offer.nights }} nights</span><span>{{ offer.date | date_to_long_string }}</span><span>{{ offer.cruiseline }}</span>
+      </p>
+      <p class="offer__description">{{ offer.description }}</p>
     </div>
-    <div class="se-offer-price">
-      <p>From <span class="now-price">£{{ offer.price }}pp</span> for {{ offer.nights }} nights</p>
+    <div class="offer__bottom">
+      <p>From <span class="offer__price">£{{ offer.price }}pp</span></p>
     </div>
   </a>
 </li>

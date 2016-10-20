@@ -1,23 +1,20 @@
-- class: scenic-caribbean-cruise-orlando-break
-  title: Scenic Caribbean cruise & Orlando break
-  category: caribbean
-  cruiseline: Ten unforgettable nights split between Orlando and an all-inclusive Caribbean cruise, with flights
-  price: 999
-  price-description: per person for 10 nights
-  cruise-url: https://www.secretescapes.com/scenic-caribbean-cruise-with-orlando-break-red-lion-hotel-orlando-florida-and-a-norwegian-epic-cruise/sale?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-CARIB
-
-- class: idyllic-indian-ocean-cruise
-  title: Idyllic Indian Ocean cruise
-  category: rest-of-the-world
-  cruiseline: A blissful 14-night full-board Indian Ocean cruise to Mauritius, Seychelles and Madagascar
-  price: 1,599
-  price-description: per person for 14 nights
-  cruise-url: https://www.secretescapes.com/idyllic-indian-ocean-cruise-mauritius-seychelles-and-madagascar/sale?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-ROW
-
-- class: turkey-gulet-cruise
-  title: Turkey gulet cruise
+- title: Colourful western Mediterranean cruise
   category: mediterranean
-  cruiseline: A traditional gulet cruise around Turkey's turquoise coast, with full board and all travel
-  price: 389
+  description: A seven-night, full-board, western Mediterranean cruise on a glitzy new ship, sailing between vibrant Spain, Italy and France
+  price: 399
   price-description: per person for 7 nights
-  cruise-url: https://www.secretescapes.com/turkey-gulet-cruise-marmaris-fethiye/sale?utm_medium=referral&utm_source=secret-escapes&utm_campaign=website-MED
+  link: https://www.secretescapes.com/colourful-western-mediterranean-cruise-six-stops-across-spain-italy-and-france/sale?utm_source=SE&utm_medium=hub_offer&utm_campaign=planetcruise_20161020
+
+- title: Luxury Dahabiya Nile cruise
+  category: rest-of-the-world
+  description: Seven nights of luxury on the Dahabiya Dream, with full-board, excursions, plus an illuminating Sound and Light show at Karnak Temple - flights and transfers included
+  price: 1499
+  price-description: per person for 7 nights
+  link: https://www.secretescapes.com/luxury-dahabiya-nile-cruise-luxor-el-kab-edfu-kom-ombo-and-aswan/sale?utm_source=SE&utm_medium=hub_offer&utm_campaign=planetcruise_20161020
+
+- title: Paradisal Seychelles cruise
+  category: rest-of-the-world
+  description: Seven nights sailing around the paradisal Seychelles archipelago, with full board and stunning excursions
+  price: 1395
+  price-description: per person for 7 nights
+  link: https://www.secretescapes.com/paradisal-seychelles-cruise-mahe-curieuse-cousin-island-aride-moyenne-island-and-more/sale?utm_source=SE&utm_medium=hub_offer&utm_campaign=planetcruise_20161020

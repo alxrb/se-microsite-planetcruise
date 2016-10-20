@@ -1,18 +1,16 @@
-<li id="{{ seoffer.class }}" class="se-offer">
-  <a href="{{ seoffer.cruise-url }}" >
-    <div class="se-offer-img">
-      <div class="offer-btn">View Offer</div>
-      <img src="images/se-offers/{{ seoffer.class }}.jpg" alt="{{ seoffer.title }}">
+<li id="se-offer-{{ seoffer.title | slugify }}" class="offer">
+  <a href="{{ seoffer.link }}" >
+    <div class="offer__image">
+      <div class="offer__button">View Offer</div>
+      <img src="images/se-offers/{{ seoffer.title | slugify }}.jpg" alt="{{ seoffer.title }}">
     </div>
-    <div class="se-offer-copy">
-      <h3>{{ seoffer.title }}</h3>
-      <p class="se-offer-location">{{ seoffer.cruiseline }}</p>
-      {% if seoffer.special-info %}
-        <div class="offer-info">{{ seoffer.special-info }}</div>
-      {% endif %}
+    <div class="offer__content">
+      <h3 class="offer__title">{{ seoffer.title }}</h3>
+      <!-- <p style="font-size: 3em;">{{ seoffer.title | slugify }}</p> -->
+      <p>{{ seoffer.description }}</p>
     </div>
-    <div class="se-offer-price">
-      <p>From <span class="now-price">£{{ seoffer.price }}</span> {{ seoffer.price-description }}</p>
+    <div class="offer__bottom">
+      <p>From <span class="offer__price">£{{ seoffer.price }}</span>  {{ seoffer.price-description }}</p>
     </div>
   </a>
 </li>
